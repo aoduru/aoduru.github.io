@@ -1,2 +1,2 @@
 # aoduru.github.io
-Repository for HCI Projects
+Portfolio Repository
