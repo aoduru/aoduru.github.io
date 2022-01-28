@@ -418,10 +418,10 @@ b, strong {
 
 .contact-info {
   background: #474559;
-  border-radius: 0 0 3px 3px;
+  border-radius: 0 0 3px 10px;
   position: relative;
-  margin: auto;
-  bottom: 8px;
+  margin: 0 -9999rem;
+  padding: 0.25rem 9999rem;
 }
 .contact-info p, .contact-info a {
   color: #f7f3f3;
